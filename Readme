@@ -1,0 +1,4 @@
+This repository contains the attempts at detecting music plagiarism and creating a pipeline for the same
+The database was made from scratch and was based on the known cases of music plagiarism
+The code was implemented with two approaches. 
+One approach used analytical schema to detect plagiarism while the other uses deep learning techniques
